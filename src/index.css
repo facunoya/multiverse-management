@@ -1,4 +1,15 @@
 body {
+  /*---- DESDE ACA ES LA IMAGEN DE FONDO ----*/
+  min-height: 100vh;
+  height: 100vh;
+  width: 100vw;
+  background-image: url('../public/butterfly.webp');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+  display: flex;
+  /*----HASTA ACA ES LA IMAGEN DE FONDO ----*/
+
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
